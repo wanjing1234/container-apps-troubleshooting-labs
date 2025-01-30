@@ -1,1 +1,1 @@
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/wanjing1234/container-apps-troubleshooting-labs/main/01_auth/template.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/wanjing1234/container-apps-troubleshooting-labs/blob/main/01_auth/template.json)
