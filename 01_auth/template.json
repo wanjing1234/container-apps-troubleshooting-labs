@@ -135,7 +135,7 @@
                 "identityProviders": {
                     "azureActiveDirectory": {
                         "registration": {
-                            "openIdIssuer": "https://https://login.microsoftonline.com/16b3c013-d300-468d-ac64-7eda0820b6d3/v2.0",
+                            "openIdIssuer": "https://login.microsoftonline.com/16b3c013-d300-468d-ac64-7eda0820b6d3/v2.0",
                             "clientId": "5b62fd39-1924-47e6-a3ea-ce7ecbc77d11"
                         },
                         "validation": {
